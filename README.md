@@ -8,3 +8,5 @@
 - [Modulo 5 — Controllo giornaliero delle fatture con n8n](modulo-5/README.md)
 
 - [Modulo 6 — Riconciliare fatture e ordini](modulo-6/README.md)
+
+- [Slide e scaletta](slide/)
