@@ -12,9 +12,7 @@
 
 ## Consegna
 
-Scarica i due PDF e allegali alla chat del corso. Scrivi un prompt che risponda a queste domande.
-
-- Dal 2024 al 2025, ricavi e risultato operativo si sono mossi nella stessa direzione? Come sono cambiati il margine operativo e l’utile netto consolidato?
-- Quanto del cambiamento dipende dall’andamento delle attività e quanto dall’ingresso o dall’uscita di società dal gruppo? Quali effetti si possono quantificare dai documenti?
-
-Prova due versioni del prompt con gli stessi PDF e lo stesso modello. Verifica almeno un dato per società e controlla come la risposta distingue i valori consolidati dai dati pro forma o ordinari.
+- **Obiettivo comune.** Confronta gli estratti dei bilanci consolidati di Enel e Sorgenia. Dal 2024 al 2025, in quale gruppo sono cresciuti i ricavi? Dove è migliorato il margine operativo? I due indicatori si muovono nella stessa direzione?
+- **Cambia il prompt.** Usa lo stesso modello e gli stessi due estratti. Parti da una domanda aperta, poi aggiungi metriche, formato e richiesta delle fonti. Usa una chat nuova per ogni prova.
+- **Cambia il modello.** Ripeti il prompt più efficace su un altro modello, usando gli stessi estratti.
+- **Confronta le risposte.** Verifica almeno un dato per gruppo. Controlla la variazione dei ricavi in percentuale, la variazione del margine operativo in punti percentuali e se la risposta segnala cambi di perimetro o differenze nelle definizioni.
