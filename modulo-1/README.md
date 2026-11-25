@@ -1,4 +1,24 @@
-# Modulo 1 — Chiavi API per le esercitazioni
+# Modulo 1 
+
+##IKN Lab
+https://34.154.188.126.sslip.io
+
+Utente: docente@ikn.local
+Password: OMTY5okmv9eQqAp0vlSJjnKR
+
+Utente: studente1@ikn.local
+Password: OOqtYPdUp2q1b0DiHL43rc4_
+
+Utente: studente2@ikn.local
+Password: 2NdDvOVFdbklri_49kvx1Vxy
+
+Utente: studente3@ikn.local
+Password: DZiXjydQJhQMfaBnvQdzExPm
+
+Utente: studente4@ikn.local
+Password: ySC03yKWfEqVJ2SL8A2k1lfB
+
+##Chiavi API per le esercitazioni
 
 Accedi alla piattaforma del fornitore, crea una chiave API personale e seleziona un modello incluso nell’offerta gratuita disponibile per il tuo account.
 
