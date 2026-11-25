@@ -1,0 +1,9 @@
+ID ordine,Data ordine,Fornitore,Descrizione ordine,Imponibile EUR
+O-101,2026-11-02,ElettroNord S.r.l.,Manutenzione programmata cabina BT del sito Monza,1200
+O-102,2026-11-03,Termoservizi S.p.A.,Revisione pompa di circolazione P-17,2400
+O-103,2026-11-03,Reti & Misure S.r.l.,Taratura contatori presso sito Est,900
+O-104,2026-11-04,Reti & Misure S.r.l.,Taratura contatori presso sito Ovest,900
+O-105,2026-11-05,Cavi Lombardi S.r.l.,"Fornitura cavo MT lotto A, deposito Nord",1450
+O-106,2026-11-06,Acqua Service S.r.l.,Ispezione perdite tratta Vallone,760
+O-107,2026-11-07,ElettroNord S.r.l.,Verifica protezioni quadro sito Lecco,1200
+O-108,2026-11-07,Sensori Italia S.r.l.,Fornitura sensori pressione per impianto Sud,1800
