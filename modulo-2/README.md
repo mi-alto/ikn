@@ -18,7 +18,3 @@ Scarica i due PDF e allegali alla chat del corso. Scrivi un prompt che risponda 
 - Quanto del cambiamento dipende dall’andamento delle attività e quanto dall’ingresso o dall’uscita di società dal gruppo? Quali effetti si possono quantificare dai documenti?
 
 Prova due versioni del prompt con gli stessi PDF e lo stesso modello. Verifica almeno un dato per società e controlla come la risposta distingue i valori consolidati dai dati pro forma o ordinari.
-
-## Tutorial
-
-In aula esploreremo il [tutorial interattivo di prompt engineering di Anthropic](https://github.com/anthropics/prompt-eng-interactive-tutorial/tree/master).
