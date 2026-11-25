@@ -135,3 +135,5 @@
 - Usa la tabella verificata per creare un foglio Excel. Se la sandbox può generare file, chiedi all’agente di salvarlo come `confronto.xlsx`.
 - Chiedi all’agente di riaprire il file con Python, calcolare il margine operativo per anno e salvare una copia del foglio con la nuova colonna. Esporta la tabella in CSV.
 - Verifica un calcolo con la formula risultato operativo diviso ricavi. Se la chat non esegue codice, fai gli stessi passaggi nel foglio di calcolo.
+
+- Dai all’agente il foglio verificato e chiedi un unico file `dashboard.html` da aprire nel browser, con due grafici (ricavi e margini 2024–2025) e la tabella dei dati. Verifica un valore per società confrontandolo con il foglio.

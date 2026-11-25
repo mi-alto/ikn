@@ -65,14 +65,14 @@
 
 ---
 
-## Slide 120 — Esercitazione — Un controllo sulle fatture
+## Slide 120 — Esercitazione — Carica l’Excel e scarica il report
 
-- Accedi a [n8n Cloud](https://app.n8n.cloud/) e crea un workflow personale. In una Data Table inserisci tre fatture con codice e giorni di ritardo. F01 ha 0 giorni, F02 ne ha 10 e F03 ne ha 35.
-- Collega Manual Trigger → Data Table (lettura delle righe) → If. Imposta la regola «giorni di ritardo maggiori di 30».
+- Dal [modulo 5](../modulo-5/README.md) scarica `fatture.xlsx` e segui la guida per costruire il flusso in n8n.
+- Apri il modulo di test, carica l’Excel e imposta la soglia a 100 €. Il flusso filtra le fatture del 26 novembre 2026, calcola lo scostamento e restituisce `controlli.xlsx`.
 
 ---
 
-## Slide 121 — Esercitazione — Verifica la regola
+## Slide 121 — Esercitazione — Verifica la soglia
 
-- Esegui il workflow. Nel ramo vero deve finire solo F03. Cambia il valore di F02 in 30, poi in 31, e verifica quando cambia ramo.
-- Nel lavoro reale la stessa regola può partire da una tabella di Airtable o da un foglio Excel. Nel modulo 6 vedremo come usare l’AI quando serve interpretare informazioni o decidere il passo successivo.
+- Nel primo report devono comparire due fatture. Solo F03, con uno scostamento di 150 €, è da verificare.
+- Ripeti con soglia 40 €. Ora sono da verificare sia F02 (+50 €) sia F03 (+150 €). La regola usa lo scostamento in valore assoluto.

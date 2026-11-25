@@ -41,7 +41,7 @@ Totale: 260 minuti di discussione, 90 minuti di esercitazione, 10 minuti di chiu
 - Istruzioni fisse e documenti di riferimento
 - Le skill: procedure salvate che l'assistente richiama quando servono
 - I plugin e i collegamenti agli altri programmi (MCP)
-- In aula si aprono le skill vere di Anthropic per la finanza (vedi `skill-finanza-panoramica.md`), per mostrare che sono testo leggibile
+- In aula si aprono le skill vere di Anthropic per la finanza (vedi il [repository Financial Services](https://github.com/anthropics/financial-services)), per mostrare che sono testo leggibile
 - Messaggio chiave: ognuno può scrivere la propria skill, così spiega un processo una volta sola e lo fa ripetere sempre uguale
 - Esercitazione: ognuno configura un assistente con una skill
 
@@ -50,12 +50,15 @@ Totale: 260 minuti di discussione, 90 minuti di esercitazione, 10 minuti di chiu
 - Documenti: estrazione in locale con modelli dedicati oppure affidata al modello di linguaggio
 - Numeri: il modello scrive codice (Python) e lo esegue in un ambiente protetto (sandbox); quando serve e come si verifica il risultato
 
+- Esercitazione: creare una dashboard HTML dai dati verificati di Enel e Sorgenia
+
 ### 5. Automazione, prima parte
 
 - Cos'è un flusso automatico e come si costruisce
-- Dimostrazione dal vivo: lettura di un documento, sintesi, invio per posta
+- Esercitazione: caricare un Excel in n8n, applicare una soglia e scaricare il report degli scostamenti
 
 ### 6. Automazione, seconda parte
 
 - Applicazione ai processi della finanza: chiusure, riconciliazioni, previsioni, avvisi sugli scostamenti
 - Qualità, sicurezza e tracciabilità dei dati
+- Esercitazione: riconciliare fatture e ordini a partire da due CSV
